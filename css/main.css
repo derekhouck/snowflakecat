@@ -11,7 +11,8 @@
    ========================================================================== */
 
 html {
-    color: #222;
+	background: #222;
+    color: #e5e5e5;
     font-size: 1em;
     line-height: 1.4;
 }
@@ -96,7 +97,15 @@ textarea {
    ========================================================================== */
 
 
-
+body {
+	align-items: center;
+	display: flex;
+	flex-flow: column nowrap;
+	height: 100vh;
+	justify-content: center;
+	text-align: center;
+	width: 100vw;
+}
 
 
 

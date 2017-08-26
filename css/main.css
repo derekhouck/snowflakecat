@@ -106,6 +106,13 @@ body {
 	text-align: center;
 	width: 100vw;
 }
+em {
+	display: block;
+	text-transform: lowercase;
+}
+#snowflake:hover {
+	cursor: pointer;
+}
 
 
 
